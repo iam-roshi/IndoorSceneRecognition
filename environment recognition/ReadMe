@@ -1,0 +1,3 @@
+Copy of CNN Model was the previous version, and its accuracy was approximately 92%. 
+Copy of Capsnet Model was the previous version, and its accuracy was approximately 80%. 
+Make sure you use the correct path for Capsnet and CNN Model which is basically a Epochs File.
